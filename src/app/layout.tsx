@@ -28,7 +28,6 @@ export const metadata: Metadata = {
     siteName: dict.business.name,
     title: dict.business.name,
     description: dict.home.hero.subtitle,
-    images: [dict.services["used-furniture"].imageUrl],
   },
 };
 

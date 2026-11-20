@@ -46,3 +46,14 @@ export const ui = {
   notFound: "الصفحة غير موجودة",
   backHome: "العودة إلى الرئيسية",
 };
+
+/**
+ * The social image (src/app/opengraph-image.png). Pages that set their own `openGraph`
+ * must include it explicitly — Next.js replaces, not merges, the root openGraph object.
+ */
+export const ogImage = {
+  url: "/opengraph-image.png",
+  width: 1200,
+  height: 630,
+  alt: `${dict.business.name} — ${dict.home.hero.h1}`,
+};

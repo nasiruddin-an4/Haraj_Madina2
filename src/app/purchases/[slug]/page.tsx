@@ -6,7 +6,7 @@ import { PurchaseCard } from "@/components/cards";
 import { CalendarIcon, MapPinIcon, TagIcon } from "@/components/icons";
 import { CtaBand } from "@/components/sections/Shared";
 import { CallButton, PageHero, SectionHeading, WhatsAppButton, imgSrc } from "@/components/ui";
-import { dict, getPurchase } from "@/lib/data";
+import { dict, getPurchase, ogImage } from "@/lib/data";
 
 export function generateStaticParams() {
   return dict.recentPurchases.map((p) => ({ slug: p.slug }));
@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: PageProps<"/purchases/[slug]"
     title: purchase.title,
     description: purchase.description,
     alternates: { canonical: `/purchases/${purchase.slug}` },
-    openGraph: { title: purchase.title, description: purchase.description, images: [imgSrc(purchase.image)] },
+    openGraph: { title: purchase.title, description: purchase.description, images: [ogImage] },
   };
 }
 

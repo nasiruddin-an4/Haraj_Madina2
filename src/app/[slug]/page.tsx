@@ -6,7 +6,7 @@ import { ServiceCard } from "@/components/cards";
 import { CheckIcon } from "@/components/icons";
 import { CtaBand, Faq } from "@/components/sections/Shared";
 import { CallButton, PageHero, SectionHeading, WhatsAppButton, imgSrc } from "@/components/ui";
-import { dict, getService, services } from "@/lib/data";
+import { dict, getService, ogImage, services } from "@/lib/data";
 
 export function generateStaticParams() {
   return services.map((s) => ({ slug: s.slug }));
@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: PageProps<"/[slug]">): Promis
     title: service.title,
     description: service.body,
     alternates: { canonical: `/${service.slug}` },
-    openGraph: { title: service.title, description: service.body, images: [imgSrc(service.imageUrl)] },
+    openGraph: { title: service.title, description: service.body, images: [ogImage] },
   };
 }
 
