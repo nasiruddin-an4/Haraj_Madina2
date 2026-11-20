@@ -1,0 +1,143 @@
+@import "tailwindcss";
+
+/* Brand tokens carried over from the original Elementor global kit */
+@theme {
+  --color-navy: #060047;
+  --color-navy-deep: #051755;
+  --color-brand: #186cda;
+  --color-brand-alt: #215aec;
+  --color-gold: #ffbe00;
+  --color-sky: #34adcf;
+  --color-whatsapp: #1a7d4d;
+  --color-mist: #eeeeee;
+
+  --font-sans: var(--font-kufi), ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white text-navy antialiased;
+  }
+
+  /* Anchored sections shouldn't hide under the sticky header */
+  section[id] {
+    scroll-margin-top: 6rem;
+  }
+}
+
+@layer components {
+  /* Long-form copy blocks */
+  .article {
+    @apply text-base leading-loose text-navy/90;
+  }
+  .article p {
+    @apply mb-4;
+  }
+  .article h2 {
+    @apply mt-10 mb-4 text-2xl font-bold text-navy md:text-3xl;
+  }
+  .article h3 {
+    @apply mt-8 mb-3 text-xl font-semibold text-navy;
+  }
+  .article strong {
+    @apply font-semibold text-brand;
+  }
+  .article ol {
+    @apply mb-6 grid list-inside list-[arabic-indic] gap-2 sm:grid-cols-2;
+  }
+  .article ol li {
+    @apply rounded-lg bg-mist px-4 py-2;
+  }
+  /* On grey sections, list items need a white background to stand out */
+  .bg-mist .article ol li {
+    @apply bg-white;
+  }
+}
+
+/*
+ * Scroll animations — same keyframes and timing as the original Elementor template.
+ * Mark an element with data-animate="zoom-in | slide-in-up | fade-in-left" (and optionally
+ * data-delay="200|400|600|800"). ScrollAnimations adds data-visible when it scrolls into view.
+ * Elements are only hidden when the `anim` class is on <html> (JS on, motion allowed).
+ */
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInUp {
+  from {
+    transform: translate3d(0, 100%, 0);
+    visibility: visible;
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translate3d(-100%, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/*
+ * Off-screen starting positions (fadeInLeft) must not widen the page. Clip on <main>, not
+ * <body>: overflow set on body is propagated to the viewport and doesn't clip there.
+ */
+main {
+  overflow-x: clip;
+}
+
+.anim [data-animate]:not([data-visible]) {
+  visibility: hidden;
+}
+
+.anim [data-animate][data-visible] {
+  animation-duration: 1.25s;
+  animation-fill-mode: both;
+}
+.anim [data-animate="zoom-in"][data-visible] {
+  animation-name: zoomIn;
+}
+.anim [data-animate="slide-in-up"][data-visible] {
+  animation-name: slideInUp;
+}
+.anim [data-animate="fade-in-left"][data-visible] {
+  animation-name: fadeInLeft;
+}
+.anim [data-delay="200"] {
+  animation-delay: 200ms;
+}
+.anim [data-delay="400"] {
+  animation-delay: 400ms;
+}
+.anim [data-delay="600"] {
+  animation-delay: 600ms;
+}
+.anim [data-delay="800"] {
+  animation-delay: 800ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .animate-ping {
+    animation: none;
+  }
+}

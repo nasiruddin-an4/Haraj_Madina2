@@ -1,0 +1,956 @@
+{
+  "en": {
+    "common": {
+      "details": "Details",
+      "whatsapp": "WhatsApp",
+      "call": "Call",
+      "guaranteedBuying": "Guaranteed <br/> Buying & Selling",
+      "instantValuation": "Instant<br/>Valuation",
+      "aboutService": "About the Service",
+      "whatWeBuy": "What We Buy",
+      "otherServices": "Other Services"
+    },
+    "business": {
+      "name": "Haraj Madina | Used Furniture Buyer",
+      "phone": "+966577354428",
+      "phoneDisplay": "+966 57 735 4428",
+      "whatsappLink": "https://wa.me/966577354428",
+      "serviceArea": "Al Madinah Al Munawwarah, Saudi Arabia"
+    },
+    "nav": {
+      "home": "Home",
+      "usedFurniture": "Used Furniture",
+      "appliances": "Appliances & AC Units",
+      "restaurantEq": "Restaurant Equipment",
+      "kitchens": "Kitchens",
+      "scrap": "Scrap",
+      "contact": "Contact Us"
+    },
+    "home": {
+      "hero": {
+        "eyebrow": "Buying used furniture in Medina",
+        "h1": "We buy used furniture in Medina",
+        "subtitle": "Fast buying service for homes, offices, restaurants, and hotels across Medina. Free evaluation and instant cash payment.",
+        "primaryCta": "Call Now",
+        "secondaryCta": "Send Photos"
+      },
+      "servicesSection": {
+        "eyebrow": "Our Services",
+        "h2": "We buy all kinds of used items in Madinah",
+        "subtitle": "Quick evaluation, fair price, cash payment, and pickup."
+      },
+      "recentPurchasesSection": {
+        "eyebrow": "Our Portfolio",
+        "h2": "Recent Purchases",
+        "subtitle": "Take a look at some of the high-quality used furniture and appliances we've recently purchased at top market prices."
+      },
+      "ctaBand": {
+        "h2": "Have furniture, appliances, or scrap you want to sell?",
+        "text": "Send photos and your location now for a quick initial estimate.",
+        "cta": "Contact via WhatsApp"
+      },
+      "whatWeBuySection": {
+        "eyebrow": "What we buy",
+        "h2": "Buying used furniture in Medina",
+        "text": "We focus on sourcing a wide variety of home and office furniture. If you own any of these, we are interested:",
+        "items": [
+          "We accept all types of furniture - we buy sofas, dining tables, beds, cabinets, desks, shelves and more.",
+          "Previously owned cooling systems - would you like to upgrade? We accept used air conditioners including splitters, windows and central units.",
+          "Used kitchen appliances - refresh your kitchen space; we take old ovens, refrigerators, dishwashers and microwave ovens from you."
+        ],
+        "imageAlt": "Used furniture",
+        "imageOverlay": "شراء اثاث مستعمل\nبالمدينة المنورة"
+      },
+      "highestPriceSection": {
+        "eyebrow": "Get the highest price for used furniture",
+        "h2": "Buying used furniture in Medina",
+        "h3": "Sell your old furniture for the highest price in Medina",
+        "paragraphs": [
+          "Are you looking for the best company to buy your old furniture in Medina? We buy all types of used furniture from homes, shops, and hotels, including houses, apartments, villas, offices, and more. We offer fair prices for your furniture.",
+          "If you want to move, renovate, update your furniture, or you need space, sell your furniture to us with ease.",
+          "Are you looking for serious buyers for used furniture in Medina? Look no further! We buy individual pieces of furniture, furniture sets, as well as office and shop furniture at competitive prices.",
+          "Don't miss the opportunity to sell your used furniture at a special price in Medina."
+        ],
+        "whyTitle": "Why sell your used furniture in Medina to us?",
+        "features": [
+          {
+            "title": "We guarantee you the highest prices",
+            "desc": "We offer you competitive and reasonable price quotes, based on the condition of the furniture and its market value."
+          },
+          {
+            "title": "Free furniture appraisal",
+            "desc": "Send us pictures of the furniture you wish to sell, and we will evaluate it immediately."
+          },
+          {
+            "title": "Furniture pickup service is available",
+            "desc": "Our team can pick up the furniture from your location in Medina."
+          }
+        ]
+      },
+      "aboutStore": {
+        "eyebrow": "What can we expect?",
+        "h2": "We buy used furniture at the best prices in Medina, such as air conditioners, sofa sets, refrigerators, electric ovens, and more. +966 57 735 4428",
+        "text": "Welcome to our store, the best place to buy used furniture. We are the top buyers of used furniture in Medina, offering the best prices. We are your one-stop shop for used furniture, air conditioners, refrigerators, ovens, and other electrical and kitchen appliances in Medina. As the best used furniture buyer in Medina, we are proud to offer the best prices for all your used home furnishings.",
+        "image": "/3.webp.bv.webp"
+      },
+      "portfolio": {
+        "eyebrow": "Our investment portfolio",
+        "h2": "Our final works",
+        "text": "Buying used furniture in Medina is our business. If you want to sell your used furniture to us, contact us now at +966 57 735 4428 and we will finance your used goods appropriately and buy them at the best price."
+      },
+      "infoColumns": {
+        "sections": [
+          {
+            "eyebrow": "Buy scrap",
+            "title": "Buying used furniture in Medina",
+            "text": "Used Furniture Buyers in Medina: We specialize in buying used furniture in Medina at excellent prices, quickly and reliably. If you are looking for a reliable place to buy used furniture, home appliances, kitchens, air conditioners, or any other used goods in Medina, don't hesitate to contact us. Call us directly at +966 57 735 4428, and we will come to you.",
+            "image": "/scrap.webp",
+            "button": {
+              "text": "Send Photo"
+            }
+          },
+          {
+            "eyebrow": "",
+            "title": "Used furniture dealers in Medina – +966 57 735 4428",
+            "text": "Buying used furniture in Medina is essential for many residents moving to new homes, renovating their existing ones, or emptying their apartments, villas, or offices. We offer a professional service built on trust, fair appraisals, and prompt payment.\n\nWe cover all neighborhoods in Medina, and we will reach you as quickly as possible with a specialized team for dismantling and moving furniture, making the process easy and convenient.",
+            "image": "/USED-HOME-FURNITURE.jpeg",
+            "button": {
+              "text": "Send Photo"
+            }
+          },
+          {
+            "eyebrow": "Buying used scrap metal in the city",
+            "title": "Buying used furniture in Medina +966 57 735 4428",
+            "text": "Buying used scrap metal in Medina, the best service in Medina. Professional buyers of used furniture, scrap metal, and household items in Medina.\n\nAre you looking for a reliable company to buy used scrap metal in Medina or to quickly sell your unwanted household items? We are among the most trusted buyers in Medina. We offer professional buying services for scrap metal, used furniture, kitchen appliances, office equipment, and all types of secondhand goods.",
+            "listTitle": "We specialize in:",
+            "list": [
+              "Buying used scrap metal in the city.",
+              "Buying used furniture in Medina.",
+              "Buying used goods in Medina.",
+              "Buying used kitchen appliances in Medina.",
+              "Buying used scrap iron in Medina.",
+              "Buying used gas cylinders in Medina.",
+              "Buying used refrigerators in Medina.",
+              "Buying used kitchenware in Medina.",
+              "Buying used air conditioners in Medina."
+            ],
+            "image": "/steelimg.jpeg",
+            "button": {
+              "text": "Send Photo"
+            }
+          }
+        ]
+      }
+    },
+    "services": {
+      "used-furniture": {
+        "slug": "used-furniture",
+        "title": "Haraj Madina | Used Furniture Buyer",
+        "subtitle": "We buy home and office furniture of all types and conditions.",
+        "body": "We buy used bedrooms, sofas, majlis seating, tables, wardrobes, and office furniture in Madinah with a quick evaluation.",
+        "summaryTitle": "Used Furniture",
+        "summaryDesc": "Bedrooms, sofas, majlis seating, tables, wardrobes, and office furniture.",
+        "imageUrl": "/USED-HOME-FURNITURE.jpeg",
+        "seoContent": [
+          "Buying used furniture in Medina. We offer complete solutions for people who want to sell their used furniture quickly and easily, with the best prices and free transportation services, making it the ideal way to get rid of excess furniture comfortably and easily.",
+          "If you wish to get rid of used furniture or sell old pieces at excellent prices, our company offers integrated used furniture buying solutions in Medina with ease and convenience. Just contact us and leave the rest to us.",
+          "Our company is committed to purchasing used furniture at fair prices with no additional fees. We offer an inspection and appraisal service for each piece to save you time, effort, and money, and to ensure the satisfaction and trust of our valued customers.",
+          "Used furniture stores in Medina. Our company offers a service to buy used furniture and all household items in Medina at reasonable prices, for resale, making it the ideal solution for expatriates, visitors, and villa owners who wish to buy or sell furniture easily and conveniently.",
+          "Used furniture auction in Medina at the best prices. Our company offers a service for buying used furniture in Medina and all household contents at reasonable prices, along with repair, renovation and painting services to prepare the furniture for resale or for temporary homes, making it the ideal solution for expatriates, visitors and villa owners who want to buy or sell furniture easily and conveniently.",
+          "We buy all types of used furniture, such as bedrooms, broken air conditioners, electrical appliances, sports equipment, aluminum kitchens, restaurant and cafe equipment, salons, and more. Dear customers, we buy used office and home furniture, kitchens, sofas, carpets, rugs, and bedroom sets at the highest prices.",
+          "We sell used furniture at the lowest prices. We buy all types of home and office furniture, restaurant equipment, entertainment venues, and gyms. We appraise and purchase used furniture and household appliances at competitive prices.",
+          "Buy used furniture at the best prices. Our company not only buys used furniture but also offers unbeatable prices in our showrooms. We provide all types of wooden furniture, IKEA furniture, electrical appliances, rare antiques, and unique pieces you won't find anywhere else, with special annual and semi-annual offers for a pleasant and rewarding buying experience.",
+          "You can rely on us to buy used furniture in Medina quickly and easily. Our services in buying used furniture in Medina include an accurate assessment of the furniture."
+        ],
+        "items": [
+          "Bedroom sets",
+          "Sofas & majlis seating",
+          "Dining tables & chairs",
+          "Wardrobes & closets",
+          "Office desks & chairs",
+          "TV units & shelving"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "used-appliances": {
+        "slug": "used-appliances",
+        "title": "Buying used AC units and appliances in Madinah",
+        "subtitle": "Split units, window units, refrigerators, washing machines, freezers, and home appliances.",
+        "body": "We buy used air conditioners, refrigerators, washing machines, ovens, TVs, and electrical appliances in Madinah.",
+        "summaryTitle": "Appliances & AC Units",
+        "summaryDesc": "Air conditioners, refrigerators, washing machines, ovens, and TVs.",
+        "imageUrl": "/acimg.jpeg",
+        "items": [
+          "Split & window AC units",
+          "Refrigerators & freezers",
+          "Washing machines & dryers",
+          "Ovens & microwaves",
+          "Water coolers & dispensers",
+          "Small kitchen appliances"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "restaurant-equipment": {
+        "slug": "restaurant-equipment",
+        "title": "Buying used restaurant and café equipment",
+        "subtitle": "We assess individual equipment or a full restaurant setup based on condition and quantity.",
+        "body": "We buy used restaurant, café, and hotel equipment in Madinah: ovens, refrigerators, fryers, coffee machines, and fixtures.",
+        "summaryTitle": "Restaurant Equipment",
+        "summaryDesc": "Display fridges, ovens, fryers, coffee machines, and fixtures.",
+        "imageUrl": "/steelimg.jpeg",
+        "items": [
+          "Commercial & display refrigerators",
+          "Ovens, fryers & grills",
+          "Coffee & espresso machines",
+          "Stainless steel counters & shelving",
+          "Dining tables & chairs",
+          "Kitchen & POS fixtures"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "used-kitchens": {
+        "slug": "used-kitchens",
+        "title": "We buy used kitchens and home appliances",
+        "subtitle": "Aluminum and wood kitchens, ovens, microwaves, extractor hoods, and dishwashers.",
+        "body": "We buy used kitchens and home appliances in Madinah, including aluminum and wood kitchens, ovens, and extractor hoods.",
+        "summaryTitle": "Used Kitchens",
+        "summaryDesc": "Aluminum and wood kitchens, plus home appliances.",
+        "imageUrl": "/WhatsApp Image 2026-09-08 at 23.03.50.jpeg",
+        "items": [
+          "Aluminum kitchen cabinets",
+          "Wood kitchen cabinets",
+          "Kitchen islands & countertops",
+          "Extractor hoods",
+          "Built-in ovens & hobs",
+          "Sinks & fixtures"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1684928365167-e91916573122?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1609210884439-d8bd991cb9b4?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "scrap-buyer": {
+        "slug": "scrap-buyer",
+        "title": "We buy scrap, iron, copper, and aluminum",
+        "subtitle": "Buying, sorting, and pickup of scrap from homes, warehouses, and sites.",
+        "body": "We buy scrap and used metals in Madinah, including iron, copper, aluminum, cables, and batteries.",
+        "summaryTitle": "Scrap & Metals",
+        "summaryDesc": "Iron, copper, aluminum, cables, and batteries.",
+        "imageUrl": "/scrap.webp",
+        "items": [
+          "Iron & steel scrap",
+          "Copper wiring & cables",
+          "Aluminum scrap",
+          "Old batteries",
+          "Electronics & wiring",
+          "Construction site metal waste"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1617303331806-3d6b58e03241?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1584774354932-62ceb99e6053?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "used-ikea-furniture": {
+        "slug": "used-ikea-furniture",
+        "title": "Used IKEA furniture in Medina",
+        "subtitle": "Purchasing IKEA furniture at premium prices with specialized dismantling and transport.",
+        "body": "A used furniture buying company in Medina purchases IKEA furniture at premium prices and provides a specialized team to carefully disassemble, assemble, and transport it. After being moved to the company's warehouses, the pieces are refurbished and restored before being resold in our showrooms.",
+        "summaryTitle": "IKEA Furniture",
+        "summaryDesc": "Specialized buying and transport for used IKEA furniture.",
+        "imageUrl": "/sifa.webp",
+        "items": [
+          "IKEA bedroom sets",
+          "IKEA living room furniture",
+          "IKEA wardrobes (PAX)",
+          "IKEA dining sets",
+          "IKEA TV units (BESTÅ)",
+          "IKEA bookcases (BILLY)"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1505693314120-0d443867891c?auto=format&fit=crop&w=1200&q=80"
+        ]
+      }
+    },
+    "whyUs": {
+      "eyebrow": "Our advantages",
+      "title": "Why do people trust our company?",
+      "text": "We are pleased to purchase used furniture in Medina from any area, and we guarantee the quality of our work and have many years of experience in the field of used furniture.",
+      "buttonText": "Call Us to Sell",
+      "steps": [
+        {
+          "title": "Good faith",
+          "desc": "We have been involved in this business for over 10 years and have enjoyed a good reputation. We prioritize honest transactions and guarantee the best market prices for your furniture.",
+          "image": "/USED-HOME-FURNITURE.jpeg"
+        },
+        {
+          "title": "Professionalism",
+          "desc": "We operate by maintaining professionalism. Our trained staff handles dismantling, packing, and moving with the utmost care, ensuring a hassle-free experience.",
+          "image": "/sifa.webp"
+        },
+        {
+          "title": "Loyalty",
+          "desc": "We value long-term relationships with our clients in Medina, offering reliable services you can depend on time and time again for all your used furniture needs.",
+          "image": "/steelimg.jpeg"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What do you buy?",
+        "a": "We buy home and office furniture, air conditioners, electrical appliances, kitchens, scrap, and restaurant/hotel equipment."
+      },
+      {
+        "q": "How is the price determined?",
+        "a": "The price depends on the item's condition, brand, age, quantity, ease of dismantling/transport, and current market value."
+      },
+      {
+        "q": "Do you serve all neighborhoods in Madinah?",
+        "a": "We serve all neighborhoods in Madinah — please send your location via WhatsApp to confirm an inspection/pickup appointment."
+      }
+    ],
+    "recentPurchases": [
+      {
+        "slug": "luxury-bedroom-set",
+        "title": "Luxury Wooden Bedroom Set",
+        "image": "/USED-HOME-FURNITURE.jpeg",
+        "location": "Al Awali, Medina",
+        "productType": "Home Furniture",
+        "date": "August 2026",
+        "description": "We purchased a complete luxury wooden bedroom set in excellent condition. The seller was relocating and needed a quick sale. We provided a fair evaluation via WhatsApp and picked it up the same day, paying in cash immediately."
+      },
+      {
+        "slug": "commercial-kitchen-appliances",
+        "title": "Commercial Kitchen Equipment",
+        "image": "/steelimg.jpeg",
+        "location": "Quba, Medina",
+        "productType": "Restaurant Equipment",
+        "date": "July 2026",
+        "description": "A local restaurant updated their kitchen and sold us their used ovens, display refrigerators, and stainless steel prep tables. Our team handled the heavy dismantling and transport, offering the highest market price for commercial gear."
+      },
+      {
+        "slug": "split-ac-units",
+        "title": "Batch of Split AC Units",
+        "image": "/acimg.jpeg",
+        "location": "Al Aziziyah, Medina",
+        "productType": "Appliances & AC Units",
+        "date": "June 2026",
+        "description": "We bought 5 used split AC units from a villa owner during a renovation. Even though 2 units required minor repairs, we evaluated the whole batch fairly and provided an instant cash payment before safely uninstalling them."
+      }
+    ],
+    "sharedServiceBullets": [
+      "Inspection and evaluation based on item condition",
+      "Flexible appointments and quick response",
+      "Dismantling and transport of purchased items available",
+      "We handle single items or bulk quantities"
+    ],
+    "contactPage": {
+      "h1": "Contact Us",
+      "subtitle": "Send photos and your location via WhatsApp and we'll reply as soon as possible.",
+      "formSectionH2": "Sell your used items easily",
+      "formSectionText": "Send photos, a description of the condition, and your neighborhood/location for an initial estimate.",
+      "labels": {
+        "name": "Name",
+        "serviceType": "What do you want to sell?",
+        "location": "Neighborhood / Location",
+        "details": "Details"
+      },
+      "serviceTypes": [
+        "Used Furniture",
+        "Appliances & AC Units",
+        "Scrap & Metals",
+        "Restaurant Equipment",
+        "Kitchens"
+      ],
+      "submitBtn": "Send via WhatsApp",
+      "mapEyebrow": "Our Location",
+      "mapH2": "Haraj Madina's Location",
+      "contactInfo": {
+        "title": "Contact Information",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "emailAddress": "info@usedfurnituremadinah.com"
+      }
+    },
+    "footer": {
+      "about": "Buying used furniture, appliances, AC units, kitchens, scrap, and restaurant equipment within Madinah.",
+      "quickLinksTitle": "Quick Links",
+      "quickLinks": [
+        {
+          "label": "Buy Used Furniture",
+          "href": "/used-furniture"
+        },
+        {
+          "label": "Buy Appliances & AC Units",
+          "href": "/used-appliances"
+        },
+        {
+          "label": "Buy Scrap",
+          "href": "/scrap-buyer"
+        }
+      ],
+      "contactHeading": "Contact Us",
+      "copyright": "© 2026 Haraj Madina | Used Furniture Buyer"
+    },
+    "seoArticles": [
+      {
+        "h3": "Buying used air conditioners in Medina +966 57 735 4428",
+        "paragraphs": [
+          "Sell your old air conditioner to us - Buying used air conditioners in Medina +966 57 735 4428 - Trusted buyers of used furniture and appliances",
+          "If you're looking for a reliable and professional service to buy used air conditioners in Medina (+966 57 735 4428), you've come to the right place. We are among the best buyers of used furniture and household appliances in Medina, offering a quick response, fair prices, and seamless service. By selling your used items to us, you'll not only be able to do so easily, quickly, and profitably, but you'll also be contributing to the reuse and sustainability of your community."
+        ]
+      },
+      {
+        "h3": "Buying used furniture in Medina - Solutions for homes and offices",
+        "paragraphs": [
+          "Buying used furniture in Medina is a well-established service we offer. We handle the disposal of furniture from homes, offices, hotels, schools, and commercial spaces. Our team will efficiently complete the task, whether you have a single piece or an entire property.",
+          "Types of furniture we buy: bedroom furniture sets, livingroom sofas, diningroom tables and chairs, wardrobes, office desks and chairs, hotel and apartment furniture. Our process is simple: contact us, get a free valuation, accept our offer, and receive your money instantly."
+        ]
+      },
+      {
+        "h3": "Buying all used goods in Medina - One call, one solution.",
+        "paragraphs": [
+          "We buy all used goods in Medina, including air conditioners, furniture, and kitchen appliances. This makes us the ideal choice for anyone looking to sell their used items quickly and easily.",
+          "Our shopping list includes: washing machines and dryers, televisions and electronics, scrap office equipment, hotel and restaurant supplies. No matter how many items you have, we will handle it professionally."
+        ]
+      },
+      {
+        "h3": "Certificates & Customer Reviews",
+        "paragraphs": [
+          "AYESHA: I think it's the best place for that, as it will always be among the top buyers of used furniture in Medina. I highly recommend it.",
+          "OMAR: I am very happy with this service. It is the best place and the best service for selling used furniture.",
+          "MORIYAM: I was very pleased to get such a good price. They respond really well and offer good value."
+        ]
+      },
+      {
+        "h3": "About us",
+        "paragraphs": [
+          "We are the best company in Medina for buying used furniture, air conditioners, and electrical appliances. Our company buys all types of used household furniture, appliances, and air conditioners at the best prices. Our Medina-based company specializes in buying used furniture and air conditioners at the best prices. Based on the principle of specialization and our belief that specialization is the most important path to success, we always strive to satisfy our clients. Our success is assured, thanks first to God and then to our clients who have placed their trust in us."
+        ]
+      },
+      {
+        "h3": "Buying used furniture in Medina",
+        "paragraphs": [
+          "A company in Medina that buys used furniture and similar items. Our goal is to purchase all types of furniture and household furnishings from all customers at the best prices. We also offer furniture repair services if needed. Learn more about our services and price range. We are here to help you.",
+          "Our used furniture buying company in Medina guarantees that we will not impose any hidden costs or exorbitant fees on our clients for inspecting and appraising their furniture. Our goal is to maintain our clients' trust and earn it by providing them with convenience and benefit from our services."
+        ]
+      },
+      {
+        "h3": "Makkah Used Furniture",
+        "paragraphs": [
+          "Makkah Used Furniture has long served the residents of Madinah by selling high-quality secondhand furniture. Whether you're looking for an affordable dining set or a unique lamp for your living room, their inventory offers a variety of options to suit different tastes and budgets. In addition to furniture, they also buy various types of scrap metal.",
+          "When selling scrap metal, plastic, or other recyclable materials, sellers benefit from Makkah's expertise in fair valuation and prompt payment. Their team efficiently assesses goods and issues checks upon receipt, saving sellers the hassle of waiting. They purchase a wide range of scrap, from standard steel and aluminum to specialty alloys. Makkah also buys old air conditioning units, recognizing the value of components that can be reused or recycled.",
+          "\"Comfort\" is one of Makkah's most important furniture services, offering free scrap transport, saving sellers transportation costs and effort. Assessments are conducted within hours of the request, and the evaluation and replacement process is completed quickly. Sellers don't need to worry about maximizing their profits, as Makkah's staff uses their expertise to determine a fair price that considers both quality and quantity. Reliable and experienced specialists handle the entire scrap purchasing process from start to finish, allowing customers to focus on other priorities and ensuring a smooth transaction.",
+          "While scrap metal, once considered worthless, now holds valuable potential, its utilization in Medina requires careful consideration. We are surrounded by an abundance of scrap, but the sheer size of the scrap market and the billions invested in it necessitate a thorough reassessment of hasty sales. Raw materials are scarce, and billions are spent on mining and extraction, but reusing available resources benefits everyone in meaningful ways. Recycling simplifies production by utilizing existing materials instead of extracting new ones. Moreover, recycling significantly contributes to environmental protection by reducing harmful carbon emissions into the atmosphere during mining. Therefore, all institutions and governments encourage citizens to participate in selling their scrap, regardless of its size or condition, because there is always something left over for recycling. As the first Saudi company to purchase used scrap in Medina, we aim to carefully align this scrap with the evolving goals of this emerging circular economy."
+        ]
+      },
+      {
+        "h3": "Choosing a scrap metal and iron supplier in Medina",
+        "paragraphs": [
+          "Recycling processes rely on meticulous sorting and grading to achieve the highest quality. The composition of each material and its potential yield must be considered to produce the purest final product. This attention to detail distinguishes our suppliers and ensures fair pricing through expert evaluation of all orders. The varying lengths and complexity of the sentences enhance the credibility of this content."
+        ]
+      },
+      {
+        "h3": "What and how do we recycle in Medina?",
+        "paragraphs": [
+          "Reuse promotes sustainability while enriching both suppliers and consumers. Our role includes understanding the characteristics and value of each contribution. We strive to maximize the value of reclaimed materials from a wide range of local resources, drawing on our extensive experience and fair judgment. This commitment to equity and quality reflects our dedication to building trusting relationships within the entire community through mutually beneficial recycling.",
+          "However, precious metals like gold, silver, and platinum are considered expensive despite their relative scarcity globally. Demand for them is increasing due to their high value. This service requires a reliable supplier and a professional, dedicated team to ensure customer satisfaction. You will find this and more with us, the leading company in Medina and beyond."
+        ]
+      },
+      {
+        "h3": "What distinguishes us from other scrap metal buyers in Medina",
+        "paragraphs": [
+          "When you consider what sets us apart from other used goods buyers in Medina, you'll always notice the exceptional level of excellence we've achieved thanks to our hard work and professionalism in every service we provide to satisfy our valued customers. Here's a summary of our key strengths:",
+          "We work tirelessly to meet all your needs. Our priority is to be a fast company that reaches you as quickly as possible, wherever you are, so that your work or personal life isn't disrupted. 24/7 silent phone service."
+        ]
+      }
+    ]
+  },
+  "ar": {
+    "common": {
+      "details": "التفاصيل",
+      "whatsapp": "واتساب",
+      "call": "اتصال",
+      "guaranteedBuying": "شراء وبيع <br/> مضمون",
+      "instantValuation": "تقييم<br/>فوري",
+      "aboutService": "عن الخدمة",
+      "whatWeBuy": "ماذا نشتري",
+      "otherServices": "خدمات أخرى"
+    },
+    "business": {
+      "name": "حراج المدينة | مشتري الأثاث المستعمل",
+      "phone": "+966577354428",
+      "phoneDisplay": "+966 57 735 4428",
+      "whatsappLink": "https://wa.me/966577354428",
+      "serviceArea": "المدينة المنورة، المملكة العربية السعودية"
+    },
+    "nav": {
+      "home": "الرئيسية",
+      "usedFurniture": "الأثاث المستعمل",
+      "appliances": "الأجهزة والمكيفات",
+      "restaurantEq": "معدات المطاعم",
+      "kitchens": "المطابخ",
+      "scrap": "السكراب",
+      "contact": "اتصل بنا"
+    },
+    "home": {
+      "hero": {
+        "eyebrow": "شراء الاثاث المستعمل بالمدينة المنورة",
+        "h1": "نشتري الاثاث المستعمل بالمدينة المنورة",
+        "subtitle": "خدمة شراء سريعة للمنازل والمكاتب والفنادق في جميع أنحاء المدينة المنورة. تقييم مجاني ودفع نقدي فوري.",
+        "primaryCta": "اتصل الآن",
+        "secondaryCta": "أرسل الصور عبر واتساب"
+      },
+      "servicesSection": {
+        "eyebrow": "خدماتنا",
+        "h2": "نشتري جميع أنواع الأغراض المستعملة في المدينة",
+        "subtitle": "تقييم سريع، سعر عادل، دفع نقدي، وفك ونقل حسب الاتفاق."
+      },
+      "recentPurchasesSection": {
+        "eyebrow": "معرض أعمالنا",
+        "h2": "مشترياتنا الأخيرة",
+        "subtitle": "ألقِ نظرة على بعض الأثاث والأجهزة المستعملة عالية الجودة التي قمنا بشرائها مؤخراً بأفضل الأسعار في السوق."
+      },
+      "ctaBand": {
+        "h2": "لديك أثاث، أجهزة، أو سكراب للبيع؟",
+        "text": "أرسل الصور والموقع الآن للحصول على تقدير مبدئي سريع.",
+        "cta": "تواصل عبر واتساب"
+      },
+      "whatWeBuySection": {
+        "eyebrow": "ما نقوم بشرائه",
+        "h2": "شراء الأثاث المستعمل في المدينة المنورة",
+        "text": "نحن نركز على شراء مجموعة متنوعة من أثاث المنزل والمكتب. إذا كنت تمتلك أيًا من هذه، فنحن مهتمون:",
+        "items": [
+          "نقبل جميع أنواع الأثاث - نشتري الأرائك وطاولات الطعام والأسرة والخزائن والمكاتب والأرفف والمزيد.",
+          "أنظمة التبريد المملوكة سابقًا - هل ترغب في الترقية؟ نحن نقبل مكيفات الهواء المستعملة بما في ذلك المقسمات والنوافذ والوحدات المركزية.",
+          "أجهزة المطبخ المستعملة - قم بتجديد مساحتك المطبخية؛ فنحن نأخذ الأفران القديمة والثلاجات وغسالات الصحون وأفران الميكروويف من يديك."
+        ],
+        "imageAlt": "أثاث مستعمل",
+        "imageOverlay": "شراء اثاث مستعمل\nبالمدينة المنورة"
+      },
+      "highestPriceSection": {
+        "eyebrow": "احصل على أعلى سعر للأثاث المستعمل",
+        "h2": "شراء أثاث مستعمل في المدينة المنورة",
+        "h3": "بيع أثاثك القديم بأعلى سعر في المدينة المنورة",
+        "paragraphs": [
+          "هل تبحث عن أفضل شركة لشراء أثاثك القديم في المدينة المنورة؟ نحن نشتري جميع أنواع الأثاث المستعمل من المنازل والمحلات التجارية والفنادق، بما في ذلك المنازل والشقق والفلل والمكاتب وغيرها. نقدم أسعارًا عادلة لأثاثك.",
+          "إذا كنت ترغب في الانتقال، أو التجديد، أو تحديث أثاثك، أو كنت بحاجة إلى مساحة، فقم ببيع أثاثك لنا بكل سهولة.",
+          "هل تبحث عن مشترين جادين للأثاث المستعمل في المدينة المنورة؟ لا مزيد من البحث! نشتري قطع الأثاث الفردية، وأطقم الأثاث، بالإضافة إلى أثاث المكاتب والمحلات التجارية بأسعار تنافسية.",
+          "لا تفوت فرصة بيع أثاثك المستعمل بسعر مميز في المدينة المنورة."
+        ],
+        "whyTitle": "لماذا تبيع أثاثك المستعمل في المدينة المنورة لنا؟",
+        "features": [
+          {
+            "title": "نضمن لك أعلى الأسعار",
+            "desc": "نقدم لك عروض أسعار تنافسية ومعقولة، بناءً على حالة الأثاث وقيمته السوقية."
+          },
+          {
+            "title": "تقييم الأثاث مجاني",
+            "desc": "أرسل لنا صور الأثاث الذي ترغب في بيعه، وسنقوم بتقييمه على الفور."
+          },
+          {
+            "title": "خدمة استلام الأثاث متوفرة",
+            "desc": "يمكن لفريقنا استلام الأثاث من موقعك في المدينة المنورة مجاناً."
+          }
+        ]
+      },
+      "aboutStore": {
+        "eyebrow": "ماذا يمكن أن نتوقع؟",
+        "h2": "نشتري الاثاث المستعمل بأفضل الأسعار بالمدينة المنورة مثل المكيفات، أطقم الكنب، الثلاجات، الأفران الكهربائية، والمزيد. +٩٦٦ ٥٧ ٧٣٥ ٤٤٢٨",
+        "text": "مرحباً بكم في متجرنا، أفضل مكان لشراء الأثاث المستعمل. نحن كبار المشترين للأثاث المستعمل في المدينة المنورة، ونقدم أفضل الأسعار. نحن محطتك الشاملة للأثاث المستعمل، المكيفات، الثلاجات، الأفران، وغيرها من الأجهزة الكهربائية والمطابخ في المدينة المنورة. بصفتنا أفضل مشتري أثاث مستعمل في المدينة المنورة، نفخر بتقديم أفضل الأسعار لجميع مفروشات منزلك المستعملة.",
+        "image": "/3.webp.bv.webp"
+      },
+      "portfolio": {
+        "eyebrow": "محفظتنا الاستثمارية",
+        "h2": "أعمالنا النهائية",
+        "text": "شراء الاثاث المستعمل بالمدينة المنورة هو عملنا اذا كنت تريد بيع اثاثك المستعمل لدينا اتصل بنا الان على الرقم +٩٦٦ ٥٧ ٧٣٥ ٤٤٢٨ وسوف نقوم بتمويل بضاعتك المستعملة بشكل مناسب وشراء البضاعة بأفضل سعر"
+      },
+      "infoColumns": {
+        "sections": [
+          {
+            "eyebrow": "شراء السكراب",
+            "title": "شراء الأثاث المستعمل بالمدينة المنورة",
+            "text": "شراء الأثاث المستعمل بالمدينة المنورة: نحن متخصصون في شراء الأثاث المستعمل بالمدينة المنورة بأفضل الأسعار وبسرعة وموثوقية. إذا كنت تبحث عن جهة موثوقة لشراء الأثاث المستعمل أو الأجهزة المنزلية أو المطابخ أو المكيفات أو أي بضائع مستعملة أخرى بالمدينة المنورة فلا تتردد في التواصل معنا. اتصل بنا مباشرة على الرقم +٩٦٦ ٥٧ ٧٣٥ ٤٤٢٨ وسنصل إليك.",
+            "image": "/scrap.webp",
+            "button": {
+              "text": "أرسل صورة"
+            }
+          },
+          {
+            "eyebrow": "",
+            "title": "محلات شراء الأثاث المستعمل بالمدينة المنورة – +٩٦٦ ٥٧ ٧٣٥ ٤٤٢٨",
+            "text": "يعد شراء الأثاث المستعمل بالمدينة المنورة خدمة ضرورية لكثير من السكان عند الانتقال إلى منازل جديدة أو تجديد منازلهم الحالية أو إخلاء شققهم وفللهم ومكاتبهم. نقدم خدمة احترافية قائمة على الثقة والتقييم العادل والدفع الفوري.\n\nنغطي جميع أحياء المدينة المنورة، ونصل إليك في أسرع وقت ممكن مع فريق متخصص في فك ونقل الأثاث، لنجعل العملية سهلة ومريحة.",
+            "image": "/USED-HOME-FURNITURE.jpeg",
+            "button": {
+              "text": "أرسل صورة"
+            }
+          },
+          {
+            "eyebrow": "شراء السكراب المعدني المستعمل في المدينة",
+            "title": "شراء الأثاث المستعمل بالمدينة المنورة +٩٦٦ ٥٧ ٧٣٥ ٤٤٢٨",
+            "text": "شراء السكراب المعدني المستعمل بالمدينة المنورة بأفضل خدمة في المدينة. مشترون محترفون للأثاث المستعمل والسكراب المعدني والأغراض المنزلية بالمدينة المنورة.\n\nهل تبحث عن شركة موثوقة لشراء السكراب المعدني المستعمل بالمدينة المنورة أو لبيع أغراضك المنزلية التي لا تحتاجها بسرعة؟ نحن من أكثر المشترين ثقة بالمدينة المنورة، ونقدم خدمات شراء احترافية للسكراب المعدني والأثاث المستعمل وأدوات المطبخ والمعدات المكتبية وجميع أنواع البضائع المستعملة.",
+            "listTitle": "نحن متخصصون في:",
+            "list": [
+              "شراء السكراب المعدني المستعمل في المدينة.",
+              "شراء الاثاث المستعمل بالمدينة المنورة.",
+              "شراء البضائع المستعملة بالمدينة المنورة.",
+              "شراء ادوات المطبخ المستعملة بالمدينة المنورة.",
+              "شراء سكراب الحديد المستعمل بالمدينة المنورة.",
+              "شراء اسطوانات الغاز المستعملة بالمدينة المنورة.",
+              "شراء الثلاجات المستعملة بالمدينة المنورة.",
+              "شراء أدوات المطبخ المستعملة بالمدينة المنورة.",
+              "شراء المكيفات المستعملة بالمدينة المنورة."
+            ],
+            "image": "/steelimg.jpeg",
+            "button": {
+              "text": "أرسل صورة"
+            }
+          }
+        ]
+      }
+    },
+    "services": {
+      "used-furniture": {
+        "slug": "used-furniture",
+        "title": "حراج المدينة | مشتري الأثاث المستعمل",
+        "subtitle": "نشتري الأثاث المنزلي والمكتبي بجميع أنواعه وحالاته.",
+        "body": "نشتري غرف النوم المستعملة، الكنب، المجالس، الطاولات، الدواليب، والأثاث المكتبي في المدينة المنورة مع تقييم سريع.",
+        "summaryTitle": "الأثاث المستعمل",
+        "summaryDesc": "غرف النوم، الكنب، المجالس، الطاولات، الدواليب، والأثاث المكتبي.",
+        "imageUrl": "/USED-HOME-FURNITURE.jpeg",
+        "seoContent": [
+          "شراء الاثاث المستعمل بالمدينة المنورة. نقدم حلولاً متكاملة للأشخاص الذين يرغبون في بيع أثاثهم المستعمل بسرعة وسهولة، مع أفضل الأسعار وخدمات نقل مجانية، مما يجعلها الطريقة المثالية للتخلص من الأثاث الزائد براحة وسهولة.",
+          "إذا كنت ترغب في التخلص من الأثاث المستعمل أو بيع القطع القديمة بأسعار ممتازة، تقدم شركتنا حلول شراء أثاث مستعمل متكاملة في المدينة المنورة بكل سهولة وراحة. فقط اتصل بنا واترك الباقي علينا.",
+          "تلتزم شركتنا بشراء الأثاث المستعمل بأسعار عادلة دون أي رسوم إضافية. نقدم خدمة فحص وتقييم لكل قطعة لتوفير وقتك وجهدك ومالك، ولضمان رضا وثقة عملائنا الكرام.",
+          "محلات الاثاث المستعمل بالمدينة المنورة. تقدم شركتنا خدمة شراء الأثاث المستعمل وجميع الأغراض المنزلية في المدينة المنورة بأسعار معقولة، لإعادة بيعها، مما يجعلها الحل المثالي للمغتربين والزوار وأصحاب الفيلات الذين يرغبون في شراء أو بيع الأثاث بسهولة ويسر.",
+          "حراج الاثاث المستعمل بالمدينة المنورة بأفضل الأسعار. تقدم شركتنا خدمة شراء الأثاث المستعمل في المدينة المنورة وجميع محتويات المنزل بأسعار معقولة، إلى جانب خدمات الإصلاح والتجديد والطلاء لإعداد الأثاث لإعادة البيع أو للمنازل المؤقتة، مما يجعله الحل المثالي.",
+          "نحن نشتري جميع أنواع الأثاث المستعمل، مثل غرف النوم، والمكيفات المعطلة، والأجهزة الكهربائية، والمعدات الرياضية، ومطابخ الألمنيوم، ومعدات المطاعم والمقاهي، والصالونات، والمزيد. عملائنا الكرام، نشتري الأثاث المكتبي والمنزلي المستعمل، والمطابخ، والأرائك، والسجاد، والموكيت، وأطقم غرف النوم بأعلى الأسعار.",
+          "نبيع الأثاث المستعمل بأقل الأسعار. نشتري جميع أنواع الأثاث المنزلي والمكتبي، ومعدات المطاعم، وأماكن الترفيه، والصالات الرياضية. نقيم ونشتري الأثاث المستعمل والأجهزة المنزلية بأسعار تنافسية.",
+          "شراء اثاث مستعمل بأفضل الأسعار. شركتنا لا تشتري الأثاث المستعمل فحسب، بل تقدم أيضًا أسعارًا لا تقبل المنافسة في معارضنا. نوفر جميع أنواع الأثاث الخشبي، وأثاث ايكيا، والأجهزة الكهربائية، والتحف النادرة، والقطع الفريدة التي لن تجدها في أي مكان آخر.",
+          "يمكنك الاعتماد علينا لشراء الأثاث المستعمل في المدينة المنورة بسرعة وسهولة. تشمل خدماتنا في شراء الأثاث المستعمل في المدينة المنورة تقييمًا دقيقًا للأثاث."
+        ],
+        "items": [
+          "مجموعات غرف نوم",
+          "كنب ومجالس",
+          "طاولات وكراسي طعام",
+          "دواليب وخزائن ملابس",
+          "مكاتب وكراسي مكتبية",
+          "وحدات تلفزيون وأرفف"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "used-appliances": {
+        "slug": "used-appliances",
+        "title": "شراء المكيفات والأجهزة المستعملة في المدينة",
+        "subtitle": "مكيفات سبليت، مكيفات شباك، ثلاجات، غسالات، فريزرات، وأجهزة منزلية.",
+        "body": "نشتري المكيفات المستعملة، الثلاجات، الغسالات، الأفران، الشاشات، والأجهزة الكهربائية في المدينة المنورة.",
+        "summaryTitle": "الأجهزة والمكيفات",
+        "summaryDesc": "المكيفات، الثلاجات، الغسالات، الأفران، والشاشات.",
+        "imageUrl": "/acimg.jpeg",
+        "items": [
+          "مكيفات سبليت وشباك",
+          "ثلاجات وفريزرات",
+          "غسالات ومجففات",
+          "أفران ومايكروويف",
+          "برادات مياه",
+          "أجهزة مطبخ صغيرة"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "restaurant-equipment": {
+        "slug": "restaurant-equipment",
+        "title": "شراء معدات المطاعم والمقاهي المستعملة",
+        "subtitle": "نقيم المعدات الفردية أو تجهيزات المطعم بالكامل بناءً على الحالة والكمية.",
+        "body": "نشتري معدات المطاعم، المقاهي، والفنادق المستعملة في المدينة المنورة: الأفران، الثلاجات، القلايات، مكائن القهوة، والتجهيزات.",
+        "summaryTitle": "معدات المطاعم",
+        "summaryDesc": "ثلاجات العرض، الأفران، القلايات، مكائن القهوة، والتجهيزات.",
+        "imageUrl": "/steelimg.jpeg",
+        "items": [
+          "ثلاجات تجارية وثلاجات عرض",
+          "أفران وقلايات وشوايات",
+          "مكائن قهوة وإسبريسو",
+          "طاولات وأرفف ستانلس ستيل",
+          "طاولات وكراسي مطاعم",
+          "تجهيزات نقاط بيع ومطابخ"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "used-kitchens": {
+        "slug": "used-kitchens",
+        "title": "نشتري المطابخ المستعملة والأجهزة المنزلية",
+        "subtitle": "مطابخ الألمنيوم والخشب، الأفران، الميكروويف، الشفاطات، وغسالات الصحون.",
+        "body": "نشتري المطابخ والأجهزة المنزلية المستعملة في المدينة المنورة، بما في ذلك مطابخ الألمنيوم والخشب، الأفران، والشفاطات.",
+        "summaryTitle": "المطابخ المستعملة",
+        "summaryDesc": "مطابخ الألمنيوم والخشب، بالإضافة إلى الأجهزة المنزلية.",
+        "imageUrl": "/WhatsApp Image 2026-09-08 at 23.03.50.jpeg",
+        "items": [
+          "مطابخ ألمنيوم",
+          "مطابخ خشبية",
+          "جزر مطبخ وأسطح رخام",
+          "شفاطات",
+          "أفران وأوجاق مدمجة",
+          "أحواض وتجهيزات"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1684928365167-e91916573122?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1609210884439-d8bd991cb9b4?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "scrap-buyer": {
+        "slug": "scrap-buyer",
+        "title": "نشتري السكراب، الحديد، النحاس، والألمنيوم",
+        "subtitle": "شراء، فرز، ونقل السكراب من المنازل، المستودعات، والمواقع.",
+        "body": "نشتري السكراب والمعادن المستعملة في المدينة المنورة، بما في ذلك الحديد، النحاس، الألمنيوم، الكابلات، والبطاريات.",
+        "summaryTitle": "السكراب والمعادن",
+        "summaryDesc": "الحديد، النحاس، الألمنيوم، الكابلات، والبطاريات.",
+        "imageUrl": "/scrap.webp",
+        "items": [
+          "سكراب حديد وصلب",
+          "أسلاك وكابلات نحاسية",
+          "سكراب ألمنيوم",
+          "بطاريات قديمة",
+          "إلكترونيات وأسلاك",
+          "مخلفات معدنية من مواقع البناء"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1617303331806-3d6b58e03241?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1584774354932-62ceb99e6053?auto=format&fit=crop&w=1200&q=80"
+        ]
+      },
+      "used-ikea-furniture": {
+        "slug": "used-ikea-furniture",
+        "title": "أثاث ايكيا المستعمل في المدينة المنورة",
+        "subtitle": "نشتري أثاث ايكيا بأسعار مميزة مع توفير فريق متخصص للفك والنقل.",
+        "body": "تقوم شركة شراء الأثاث المستعمل في المدينة المنورة بشراء أثاث ايكيا بأسعار مميزة، وتوفر فريقاً متخصصاً لفكه، تجميعه، ونقله بعناية. بعد النقل إلى مستودعات الشركة، يتم تجديد القطع قبل إعادة بيعها في معارضنا.",
+        "summaryTitle": "أثاث ايكيا",
+        "summaryDesc": "شراء ونقل متخصص لأثاث ايكيا المستعمل.",
+        "imageUrl": "/sifa.webp",
+        "items": [
+          "غرف نوم ايكيا",
+          "أثاث غرف المعيشة",
+          "دواليب ايكيا (PAX)",
+          "طاولات طعام ايكيا",
+          "وحدات تلفزيون (BESTÅ)",
+          "مكتبات ايكيا (BILLY)"
+        ],
+        "gallery": [
+          "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1200&q=80",
+          "https://images.unsplash.com/photo-1505693314120-0d443867891c?auto=format&fit=crop&w=1200&q=80"
+        ]
+      }
+    },
+    "whyUs": {
+      "eyebrow": "مميزاتنا",
+      "title": "لماذا يثق الناس بشركتنا؟",
+      "text": "يسعدنا أن نتولى شراء الأثاث المستعمل في المدينة المنورة من أي منطقة، ونضمن جودة عملنا ولدينا خبرة سنوات عديدة في مجال الأثاث المستعمل.",
+      "buttonText": "اتصل بنا للبيع",
+      "steps": [
+        {
+          "title": "حسن النية",
+          "desc": "لقد شاركنا في هذا العمل لأكثر من ١٠ سنوات وتمتعنا بسمعة طيبة. نحن نعطي الأولوية للمعاملات الصادقة ونضمن أفضل أسعار السوق لأثاثك.",
+          "image": "/USED-HOME-FURNITURE.jpeg"
+        },
+        {
+          "title": "الاحترافية",
+          "desc": "نحن نعمل من خلال الحفاظ على الاحترافية. يتعامل موظفونا المدربون مع التفكيك والتعبئة والنقل بعناية فائقة، مما يضمن تجربة خالية من المتاعب.",
+          "image": "/sifa.webp"
+        },
+        {
+          "title": "الولاء",
+          "desc": "نحن نقدر العلاقات طويلة الأمد مع عملائنا في المدينة المنورة، ونقدم خدمات موثوقة يمكنك الاعتماد عليها مرارًا وتكرارًا لجميع احتياجاتك من الأثاث المستعمل.",
+          "image": "/steelimg.jpeg"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "ماذا تشترون؟",
+        "a": "نشتري الأثاث المنزلي والمكتبي، المكيفات، الأجهزة الكهربائية، المطابخ، السكراب، ومعدات المطاعم والفنادق."
+      },
+      {
+        "q": "كيف يتم تحديد السعر؟",
+        "a": "يعتمد السعر على حالة الغرض، العلامة التجارية، العمر، الكمية، سهولة الفك والنقل، والقيمة السوقية الحالية."
+      },
+      {
+        "q": "هل تخدمون جميع أحياء المدينة المنورة؟",
+        "a": "نخدم جميع أحياء المدينة المنورة — يرجى إرسال موقعك عبر واتساب لتأكيد موعد المعاينة/النقل."
+      }
+    ],
+    "recentPurchases": [
+      {
+        "slug": "luxury-bedroom-set",
+        "title": "طقم غرفة نوم خشبية فاخرة",
+        "image": "/USED-HOME-FURNITURE.jpeg",
+        "location": "العوالي، المدينة المنورة",
+        "productType": "أثاث منزلي",
+        "date": "أغسطس ٢٠٢٦",
+        "description": "قمنا بشراء طقم غرفة نوم خشبية كاملة بحالة ممتازة. كان البائع ينتقل ويحتاج إلى بيع سريع. قدمنا تقييماً عادلاً عبر الواتساب وقمنا باستلام الأثاث في نفس اليوم مع الدفع النقدي الفوري."
+      },
+      {
+        "slug": "commercial-kitchen-appliances",
+        "title": "معدات مطبخ تجاري",
+        "image": "/steelimg.jpeg",
+        "location": "قباء، المدينة المنورة",
+        "productType": "معدات مطاعم",
+        "date": "يوليو ٢٠٢٦",
+        "description": "قام مطعم محلي بتحديث مطبخه وباع لنا أفرانه المستعملة وثلاجات العرض وطاولات التحضير المصنوعة من الستانلس ستيل. تعامل فريقنا مع التفكيك والنقل، وقدمنا أعلى سعر في السوق للمعدات التجارية."
+      },
+      {
+        "slug": "split-ac-units",
+        "title": "مجموعة مكيفات سبليت",
+        "image": "/acimg.jpeg",
+        "location": "العزيزية، المدينة المنورة",
+        "productType": "الأجهزة والمكيفات",
+        "date": "يونيو ٢٠٢٦",
+        "description": "اشترينا ٥ مكيفات سبليت مستعملة من صاحب فيلا أثناء التجديد. على الرغم من أن وحدتين كانتا بحاجة إلى إصلاحات بسيطة، قمنا بتقييم المجموعة بأكملها بشكل عادل وقدمنا دفعاً نقدياً فورياً قبل فكها بأمان."
+      }
+    ],
+    "sharedServiceBullets": [
+      "معاينة وتقييم بناءً على حالة الغرض",
+      "مواعيد مرنة واستجابة سريعة",
+      "تفكيك ونقل الأغراض المشتراة متوفر",
+      "نتعامل مع القطع الفردية أو الكميات الكبيرة"
+    ],
+    "contactPage": {
+      "h1": "اتصل بنا",
+      "subtitle": "أرسل الصور وموقعك عبر واتساب وسنرد بأسرع وقت ممكن.",
+      "formSectionH2": "بع أغراضك المستعملة بسهولة",
+      "formSectionText": "أرسل الصور، وصفاً للحالة، والحي/الموقع للحصول على تقدير مبدئي.",
+      "labels": {
+        "name": "الاسم",
+        "serviceType": "ماذا تريد أن تبيع؟",
+        "location": "الحي / الموقع",
+        "details": "التفاصيل"
+      },
+      "serviceTypes": [
+        "الأثاث المستعمل",
+        "الأجهزة والمكيفات",
+        "السكراب والمعادن",
+        "معدات المطاعم",
+        "المطابخ"
+      ],
+      "submitBtn": "إرسال عبر واتساب",
+      "mapEyebrow": "موقعنا",
+      "mapH2": "موقع حراج المدينة",
+      "contactInfo": {
+        "title": "معلومات الاتصال",
+        "address": "العنوان",
+        "phone": "الهاتف",
+        "email": "البريد الإلكتروني",
+        "emailAddress": "info@usedfurnituremadinah.com"
+      }
+    },
+    "footer": {
+      "about": "شراء الأثاث المستعمل، الأجهزة، المكيفات، المطابخ، السكراب، ومعدات المطاعم داخل المدينة المنورة.",
+      "quickLinksTitle": "روابط سريعة",
+      "quickLinks": [
+        {
+          "label": "شراء الأثاث المستعمل",
+          "href": "/used-furniture"
+        },
+        {
+          "label": "شراء الأجهزة والمكيفات",
+          "href": "/used-appliances"
+        },
+        {
+          "label": "شراء السكراب",
+          "href": "/scrap-buyer"
+        }
+      ],
+      "contactHeading": "اتصل بنا",
+      "copyright": "© ٢٠٢٦ حراج المدينة | مشتري الأثاث المستعمل"
+    },
+    "seoArticles": [
+      {
+        "h3": "شراء المكيفات المستعملة بالمدينة المنورة +٩٦٦ ٥٧ ٧٣٥ ٤٤٢٨",
+        "paragraphs": [
+          "بع مكيفك القديم لنا - شراء المكيفات المستعملة بالمدينة المنورة +٩٦٦ ٥٧ ٧٣٥ ٤٤٢٨ - مشترون موثوقون للأثاث والأجهزة المستعملة",
+          "إذا كنت تبحث عن خدمة موثوقة واحترافية لشراء المكيفات المستعملة بالمدينة المنورة (+٩٦٦ ٥٧ ٧٣٥ ٤٤٢٨)، فأنت في المكان الصحيح. نحن من أفضل مشتري الأثاث المستعمل والأجهزة المنزلية بالمدينة المنورة، ونقدم استجابة سريعة وأسعاراً عادلة وخدمة سلسة. ببيع أغراضك المستعملة لنا لن تتمكن من ذلك بسهولة وسرعة وربح فحسب، بل ستساهم أيضاً في إعادة الاستخدام والاستدامة في مجتمعك."
+        ]
+      },
+      {
+        "h3": "شراء الأثاث المستعمل في المدينة المنورة - حلول للمنازل والمكاتب",
+        "paragraphs": [
+          "شراء الأثاث المستعمل في المدينة المنورة هو خدمة راسخة نقدمها. نحن نتعامل مع التخلص من الأثاث من المنازل، المكاتب، الفنادق، المدارس، والمساحات التجارية. سيقوم فريقنا بإنجاز المهمة بكفاءة، سواء كان لديك قطعة واحدة أو عقار كامل.",
+          "أنواع الأثاث التي نشتريها: أطقم أثاث غرف النوم، كنب غرف المعيشة، طاولات وكراسي غرف الطعام، الخزائن، المكاتب والكراسي المكتبية، وأثاث الفنادق والشقق. عمليتنا بسيطة: اتصل بنا، احصل على تقييم مجاني، اقبل عرضنا، واستلم أموالك على الفور."
+        ]
+      },
+      {
+        "h3": "شراء جميع الأغراض المستعملة في المدينة المنورة - اتصال واحد، حل واحد.",
+        "paragraphs": [
+          "نشتري جميع الأغراض المستعملة في المدينة المنورة، بما في ذلك المكيفات، الأثاث، وأجهزة المطبخ. هذا يجعلنا الخيار المثالي لأي شخص يتطلع إلى بيع أغراضه المستعملة بسرعة وسهولة.",
+          "قائمة مشترياتنا تشمل: الغسالات والمجففات، التلفزيونات والإلكترونيات، سكراب المعدات المكتبية، ولوازم الفنادق والمطاعم. بغض النظر عن عدد القطع لديك، سنتعامل معها باحترافية."
+        ]
+      },
+      {
+        "h3": "شهادات ومراجعات العملاء",
+        "paragraphs": [
+          "عائشة: أعتقد أنه أفضل مكان لذلك، حيث سيكون دائماً من بين كبار مشتري الأثاث المستعمل في المدينة المنورة. أوصي به بشدة.",
+          "عمر: أنا سعيد جداً بهذه الخدمة. إنه أفضل مكان وأفضل خدمة لبيع الأثاث المستعمل.",
+          "مريم: كنت مسرورة جداً بالحصول على مثل هذا السعر الجيد. هم يستجيبون بشكل جيد حقاً ويقدمون قيمة جيدة."
+        ]
+      },
+      {
+        "h3": "معلومات عنا",
+        "paragraphs": [
+          "نحن أفضل شركة في المدينة المنورة لشراء الأثاث المستعمل والمكيفات والأجهزة الكهربائية. تشتري شركتنا جميع أنواع الأثاث المنزلي والأجهزة والمكيفات المستعملة بأفضل الأسعار. شركتنا ومقرها المدينة المنورة متخصصة في شراء الأثاث والمكيفات المستعملة بأفضل الأسعار. بناءً على مبدأ التخصص وإيماننا بأن التخصص هو أهم طريق للنجاح، نسعى دائماً لإرضاء عملائنا. نجاحنا مضمون، بفضل الله أولاً ثم بفضل عملائنا الذين وضعوا ثقتهم فينا."
+        ]
+      },
+      {
+        "h3": "شراء الأثاث المستعمل في المدينة المنورة",
+        "paragraphs": [
+          "شركة في المدينة المنورة تشتري الأثاث المستعمل والأغراض المماثلة. هدفنا هو شراء جميع أنواع الأثاث والمفروشات المنزلية من جميع العملاء بأفضل الأسعار. كما نقدم خدمات إصلاح الأثاث إذا لزم الأمر. تعرف على المزيد حول خدماتنا ونطاق أسعارنا. نحن هنا لمساعدتك.",
+          "تضمن شركتنا لشراء الأثاث المستعمل في المدينة المنورة أننا لن نفرض أي تكاليف خفية أو رسوم باهظة على عملائنا لفحص وتقييم أثاثهم. هدفنا هو الحفاظ على ثقة عملائنا وكسبها من خلال تزويدهم بالراحة والاستفادة من خدماتنا."
+        ]
+      },
+      {
+        "h3": "أثاث مكة المستعمل",
+        "paragraphs": [
+          "لطالما خدمت شركة مكة للأثاث المستعمل سكان المدينة المنورة من خلال بيع الأثاث المستعمل عالي الجودة. سواء كنت تبحث عن طقم طعام بأسعار معقولة أو مصباح فريد لغرفة المعيشة الخاصة بك، فإن مخزونهم يقدم مجموعة متنوعة من الخيارات لتناسب الأذواق والميزانيات المختلفة. بالإضافة إلى الأثاث، يشترون أيضاً أنواعاً مختلفة من السكراب المعدني.",
+          "عند بيع السكراب المعدني أو البلاستيك أو غيرها من المواد القابلة لإعادة التدوير، يستفيد البائعون من خبرة مكة في التقييم العادل والدفع الفوري. يقوم فريقهم بتقييم البضائع بكفاءة وإصدار الشيكات عند الاستلام، مما يوفر على البائعين عناء الانتظار. يشترون مجموعة واسعة من السكراب، من الحديد والصلب القياسي والألمنيوم إلى السبائك المتخصصة. مكة تشتري أيضاً وحدات تكييف الهواء القديمة، مدركة قيمة المكونات التي يمكن إعادة استخدامها أو إعادة تدويرها.",
+          "\"الراحة\" هي واحدة من أهم خدمات الأثاث في مكة، حيث توفر نقل السكراب مجاناً، مما يوفر على البائعين تكاليف النقل والجهد. يتم إجراء التقييمات في غضون ساعات من الطلب، وتكتمل عملية التقييم والاستبدال بسرعة. لا يحتاج البائعون إلى القلق بشأن تعظيم أرباحهم، حيث يستخدم موظفو مكة خبراتهم لتحديد سعر عادل يأخذ في الاعتبار كلاً من الجودة والكمية. يتعامل متخصصون موثوقون وذوو خبرة مع عملية شراء السكراب بالكامل من البداية إلى النهاية، مما يتيح للعملاء التركيز على أولويات أخرى وضمان معاملة سلسة.",
+          "في حين أن السكراب المعدني، الذي كان يعتبر في يوم من الأيام عديم القيمة، يحمل الآن إمكانات قيمة، فإن استخدامه في المدينة المنورة يتطلب دراسة متأنية. نحن محاطون بوفرة من السكراب، ولكن الحجم الهائل لسوق السكراب والمليارات المستثمرة فيه يستلزم إعادة تقييم شاملة للمبيعات المتسرعة. المواد الخام نادرة، وتنفق المليارات على التعدين والاستخراج، ولكن إعادة استخدام الموارد المتاحة يفيد الجميع بطرق مجدية. إعادة التدوير تبسط الإنتاج من خلال الاستفادة من المواد الموجودة بدلاً من استخراج مواد جديدة. علاوة على ذلك، تساهم إعادة التدوير بشكل كبير في حماية البيئة عن طريق تقليل انبعاثات الكربون الضارة في الغلاف الجوي أثناء التعدين. لذلك، تشجع جميع المؤسسات والحكومات المواطنين على المشاركة في بيع السكراب الخاص بهم، بغض النظر عن حجمه أو حالته، لأن هناك دائماً شيئاً متبقياً لإعادة التدوير. بصفتنا أول شركة سعودية تشتري السكراب المستعمل في المدينة المنورة، نهدف إلى مواءمة هذا السكراب بعناية مع الأهداف المتطورة لهذا الاقتصاد الدائري الناشئ."
+        ]
+      },
+      {
+        "h3": "اختيار مورد سكراب الحديد والمعادن في المدينة المنورة",
+        "paragraphs": [
+          "تعتمد عمليات إعادة التدوير على الفرز والتدريج الدقيق لتحقيق أعلى جودة. يجب النظر في تركيبة كل مادة وعائدها المحتمل لإنتاج أنقى منتج نهائي. هذا الاهتمام بالتفاصيل يميز موردينا ويضمن تسعيراً عادلاً من خلال التقييم الخبير لجميع الطلبات. الأطوال والتعقيدات المتفاوتة للجمل تعزز مصداقية هذا المحتوى."
+        ]
+      },
+      {
+        "h3": "ماذا وكيف نعيد التدوير في المدينة المنورة؟",
+        "paragraphs": [
+          "إعادة الاستخدام تعزز الاستدامة مع إثراء كل من الموردين والمستهلكين. يشمل دورنا فهم خصائص وقيمة كل مساهمة. نحن نسعى جاهدين لتعظيم قيمة المواد المستصلحة من مجموعة واسعة من الموارد المحلية، بالاعتماد على خبرتنا الواسعة وحكمنا العادل. هذا الالتزام بالإنصاف والجودة يعكس تفانينا في بناء علاقات ثقة داخل المجتمع بأكمله من خلال إعادة التدوير متبادلة المنفعة.",
+          "ومع ذلك، تعتبر المعادن الثمينة مثل الذهب والفضة والبلاتين باهظة الثمن على الرغم من ندرتها النسبية عالمياً. الطلب عليها يتزايد بسبب قيمتها العالية. تتطلب هذه الخدمة مورداً موثوقاً وفريقاً محترفاً ومكرساً لضمان رضا العملاء. ستجد هذا وأكثر معنا، الشركة الرائدة في المدينة المنورة وخارجها."
+        ]
+      },
+      {
+        "h3": "ما يميزنا عن غيرنا من مشتري السكراب المعدني في المدينة المنورة",
+        "paragraphs": [
+          "عندما تفكر في ما يميزنا عن غيرنا من مشتري السلع المستعملة في المدينة المنورة، ستلاحظ دائماً المستوى الاستثنائي من التميز الذي حققناه بفضل عملنا الجاد واحترافيتنا في كل خدمة نقدمها لإرضاء عملائنا الكرام. إليك ملخص لنقاط قوتنا الرئيسية:",
+          "نعمل بلا كلل لتلبية جميع احتياجاتك. أولويتنا هي أن نكون شركة سريعة تصل إليك في أسرع وقت ممكن، أينما كنت، حتى لا يتعطل عملك أو حياتك الشخصية. خدمة هاتفية صامتة على مدار الساعة طوال أيام الأسبوع."
+        ]
+      }
+    ]
+  }
+}
